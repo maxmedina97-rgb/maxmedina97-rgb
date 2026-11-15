@@ -8,13 +8,13 @@ Me interesa entender cómo la IA puede mejorar la creación de contenido, el an�
 - Explorando analítica y automatización para marketing digital
 
 ### 🛠️ Herramientas
-**Marketing y analítica:** Google Analytics 4 · HubSpot  
+**Marketing y analítica:** Google Analytics 4 · HubSpot · SEO  
 **Análisis y datos:** Excel · Power BI  
 **Diseño y contenido:** Figma · Canva · CapCut  
 **Documentación:** Word
 
 ### 📚 Próximos pasos
-Meta Ads · Google Ads · SEO
+Meta Ads · Google Ads
 
 ### 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/maximiliano-medina-riquelme-4905063a2/)
